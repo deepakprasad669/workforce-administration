@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "workforce-administration"
+  "defaultProject": "workforce-administration",
+  "cli": {
+    "analytics": "086f09aa-97f4-4be9-aeff-e78abc140224"
+  }
 }
